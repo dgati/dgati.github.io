@@ -42,8 +42,17 @@ img {
 }
 
 .portrait{
-width:150.75px;
+/*
+width:500px; 
+height:250px; /* these are the settings for DSC_2497.jpg/
+*/
+
+width:1500.75px; 
+height:201px; /* these are the settings for DSC_3236banner.jpg/
+/*
+width:150.75px; these are the settings for xcopy.jpg
 height:201px;
+/
 /*
 margin-left:100px;
 */
