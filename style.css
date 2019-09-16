@@ -125,3 +125,10 @@ li a.active {
 li a:hover:not(.active) {
   background-color: #b8bec6;
   color: white;
+  
+  .anchor{
+  display: block;
+  height: 115px; /*same height as header*/
+  margin-top: -115px; /*same height as header*/
+  visibility: hidden;
+}
